@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1513040180074_1" label="[MyICPTestApp]" name="[MyICPTestApp]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyICPTestApp" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1513034690098_0" label="Window Working Set" name="Aggregate for window 1513034690098"/>
+</workingSetManager>
